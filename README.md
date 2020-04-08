@@ -1,3 +1,3 @@
 # Scalable recognition of pictures
 
-Implemeted a recognition algorithm based for scalably retrieving recognizing pictures from a database of pictures
+Implemeted a recognition algorithm for scalably retrieving recognized pictures from a database of thousands of pictures
